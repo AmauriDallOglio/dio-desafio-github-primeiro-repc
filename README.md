@@ -1,5 +1,19 @@
 # dio-desafio-github-primeiro-repc
 
+![image](https://github.com/AmauriDallOglio/dio-desafio-github-primeiro-repc/assets/13471113/b8e11fcc-a777-47f6-ac56-67eb472d563b)
+
+
+Detalhes da formação
+Desenvolva suas habilidades com banco de dados, aprenda como modelar uma base de dados de acordo com necessidades de negócios, aprenda a trabalhar com comandos Data Manipulation Language (DML) e Data Definition Language (DDL) para consultar e manipular seus dados. Crie projetos de soluções baseadas nas boas práticas das regras formais e explore técnicas de Recuperação e Controle de Concorrência em Banco de dados.
+
+⚠️Pré-requisitos: Conhecimentos básicos em Lógica de Programação e Pensamento Computacional
+
+são muito bem-vindos!
+Atividades:
+Desafio de Código: Coloque em prática todo o conhecimento adquirido nas aulas e teste o seu conhecimento na resolução de um desafio.
+
+Desafio de Projeto: Construa o seu portfólio construindo projetos práticos com o conhecimento adquirido ao longo das aulas.
+
 
 
 Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
